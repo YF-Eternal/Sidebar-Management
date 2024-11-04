@@ -10,7 +10,7 @@
 @var checkbox hide-contact "隐藏侧边栏“联系人”选项" [0, "inline-flex", "none"]
 @var checkbox hide-qzone "隐藏侧边栏“空间”选项" [0, "inline-flex", "none"]
 @var checkbox hide-channels "隐藏侧边栏“频道”选项" [0, "inline-flex", "none"]
-@var checkbox hide-docs "隐藏侧边栏“QQ文档”选项" [0, "inline-flex", "none"]
+@var checkbox hide-docs "隐藏侧边栏“腾讯文档”选项" [0, "inline-flex", "none"]
 @var checkbox hide-QQgames "隐藏侧边栏“QQ游戏”选项" [0, "inline-flex", "none"]
 @var checkbox hide-games "隐藏侧边栏“游戏”选项" [0, "inline-flex", "none"]
 @var checkbox hide-more "隐藏侧边栏“更多”选项" [0, "inline-flex", "none"]
